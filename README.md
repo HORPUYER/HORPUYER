@@ -1,6 +1,6 @@
-Hi, I'm @HORPUYER
+Hi, I'm Matvey
 - 👀 I'm interested in progromming
-- 🌱 I am currently studying backend-development
+- 🌱 I am currently studying backend-development on C++
 - 💞️ I am looking for cooperation for training in this field
 - 📫 How to contact me : in telegram (@SMRIST)
 
